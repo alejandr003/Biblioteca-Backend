@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Cien años de soledad",
+    "authors": ["Gabriel García Márquez"],
+    "categories": ["Novela", "Realismo mágico", "Literatura latinoamericana"],
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Cien_a%C3%B1os_de_soledad.png",
+    "type": "Libro físico",
+    "identifier": "ISBN-9788420471839",
+    "description": "Cien años de soledad es una novela del escritor colombiano Gabriel García Márquez, ganador del Premio Nobel de Literatura en 1982. Esta obra narra la historia de la familia Buendía a lo largo de siete generaciones en el pueblo ficticio de Macondo."
+  },
+  {
+    "title": "1984",
+    "authors": ["George Orwell"],
+    "categories": ["Ciencia ficción", "Distopía", "Novela política"],
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71kxa1-0mfL.jpg",
+    "type": "E-book",
+    "identifier": "ISBN-9788499890944",
+    "description": "1984 presenta una sociedad futurista y totalitaria vigilada constantemente por el Gran Hermano. Winston Smith, el protagonista, trabaja reescribiendo la historia para el Ministerio de la Verdad, pero comienza a cuestionar el sistema."
+  },
+  {
+    "title": "Don Quijote de la Mancha",
+    "authors": ["Miguel de Cervantes"],
+    "categories": ["Novela", "Clásico", "Literatura española"],
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Title_page_first_edition_Don_Quijote.jpg",
+    "type": "Libro físico",
+    "identifier": "ISBN-9788424922306",
+    "description": "Don Quijote de la Mancha narra las aventuras de Alonso Quijano, un hidalgo que enloquece por leer demasiadas novelas de caballería y decide convertirse en caballero andante bajo el nombre de don Quijote, junto a su fiel escudero Sancho Panza."
+  },
+  {
+    "title": "Harry Potter y la piedra filosofal",
+    "authors": ["J.K. Rowling"],
+    "categories": ["Fantasía", "Juvenil", "Aventura"],
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/91R1AixEiLL.jpg",
+    "type": "Libro físico",
+    "identifier": "ISBN-9788478884957",
+    "description": "El primer libro de la saga Harry Potter cuenta la historia de un niño huérfano que descubre en su undécimo cumpleaños que es un mago. Harry comienza sus estudios en el Colegio Hogwarts de Magia y Hechicería donde descubrirá amistades, aventuras y misterios."
+  },
+  {
+    "title": "El Principito",
+    "authors": ["Antoine de Saint-Exupéry"],
+    "categories": ["Fábula", "Literatura infantil", "Filosofía"],
+    "imageUrl": "https://www.ellector.com.py/product_photos/24b89be1/a8c113700eae2924163eaccf5946034b.jpg",
+    "type": "Libro físico",
+    "identifier": "ISBN-9788478887194",
+    "description": "El Principito es una fábula sobre un pequeño príncipe que viaja por el universo y visita diversos planetas, incluyendo la Tierra. A través de sus encuentros con diferentes personajes, reflexiona sobre temas como la amistad, el amor y el sentido de la vida."
+  },
+  {
+    "title": "Crimen y castigo",
+    "authors": ["Fiódor Dostoyevski"],
+    "categories": ["Novela", "Clásico", "Literatura rusa"],
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Crime_and_Punishment-1.png",
+    "type": "Libro físico",
+    "identifier": "ISBN-9788420651361",
+    "description": "Crimen y castigo narra la historia de Rodión Raskólnikov, un estudiante que decide asesinar a una anciana prestamista para probar sus teorías sobre la moral y el crimen. El libro explora profundamente los dilemas morales y las consecuencias psicológicas del crimen."
+  },
+  {
+    "title": "Orgullo y prejuicio",
+    "authors": ["Jane Austen"],
+    "categories": ["Novela", "Romance", "Clásico"],
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/PrideandPrejudiceCH3detail.jpg",
+    "type": "E-book",
+    "identifier": "ISBN-9788491051305",
+    "description": "Orgullo y prejuicio es una novela romántica que narra la historia de Elizabeth Bennet y su relación con el aparentemente orgulloso señor Darcy. Ambientada en la Inglaterra rural de principios del siglo XIX, la obra es una crítica a las costumbres y convenciones sociales de la época."
+  },
+  {
+    "title": "Rayuela",
+    "authors": ["Julio Cortázar"],
+    "categories": ["Novela", "Literatura experimental", "Literatura latinoamericana"],
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Rayuela_JC.png",
+    "type": "Libro físico",
+    "identifier": "ISBN-9788466332859",
+    "description": "Rayuela es una novela escrita por Julio Cortázar que revolucionó la narrativa en español. Se puede leer de diferentes maneras: siguiendo un orden lineal o saltando entre capítulos como en el juego de la rayuela, ofreciendo múltiples experiencias de lectura."
+  }
+]

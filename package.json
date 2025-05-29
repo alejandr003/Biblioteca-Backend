@@ -1,0 +1,32 @@
+{
+  "name": "biblioteca-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "kill-port 4000 && nodemon --watch src --exec node src/index.js",
+    "start": "node src/index.js",
+    "vercel-build": "echo 'Vercel build completed'"
+  },
+  "keywords": [],
+  "author": "Jesus Chan",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "cloudinary": "^2.6.1",
+    "colors": "^1.4.0",
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "express-fileupload": "^1.5.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.13.3",
+    "morgan": "^1.10.0",
+    "multer": "^2.0.0"
+  },
+  "devDependencies": {
+    "kill-port": "^2.0.1",
+    "nodemon": "^3.1.10"
+  }
+}
