@@ -1,6 +1,6 @@
 # Biblioteca-Backend
 
-Desarrollado para aplicar mis conocimientos y comenzar un backend sencillo para una API
+Desarrollado para aplicar mis conocimientos y comenzar un backend sencillo para una API acerca de libros
 
 ## Detalles del repositorio
 
